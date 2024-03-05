@@ -1,2 +1,6 @@
 111112222222
+<<<<<<< HEAD
 this master
+=======
+this feature
+>>>>>>> master
